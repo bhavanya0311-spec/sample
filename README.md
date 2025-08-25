@@ -1,2 +1,5 @@
 # sample
-add
+book
+bag
+note
+
